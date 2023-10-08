@@ -1,0 +1,172 @@
+/* Page Design */
+body {
+	background-image: radial-gradient(circle at center, lightgrey, darkgrey, lightblue);
+}
+
+/* Navigation Bar */
+.navigation_bar {
+	background-color: #333;
+	overflow: hidden;
+	width: 70%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.navigation_bar ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.navigation_bar li {
+	margin: 10px;
+}
+
+.navigation_bar a {
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+
+.navigation_bar a:hover {
+	background-color: #04AA6D;
+}
+
+.top_page {
+	background-color: #333;
+	overflow: hidden;
+	width: 15%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.top_page ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.top_page li {
+	margin: 10px;
+}
+
+.top_page a {
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+
+.top_page a:hover {
+	background-color: #04AA6D;
+}
+
+/* Professional Profile Page */
+.reference_header {
+	text-align: center;
+}
+
+.resume_view {
+	width: 80%;
+	height: 700px;
+}
+
+.Vision_Mission_Statement {
+	width: 60%;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	font-size: 20px;
+	padding: 0px 10px 0px 10px;
+}
+
+.Vision_Mission_Statement_header {
+	font-size: 32px;
+}
+
+.Qualification_Table {
+	margin-left: auto;
+	margin-right: auto;
+	padding: 10px;
+	text-align: center;
+	font-size: 20px;
+	border:1px solid black;
+	border-collapse:collapse;"
+}
+
+.Qualification_Table_Header {
+	font-size: 32px;
+	width: 80%;
+	padding: 100px;
+}
+
+.certification_img {
+	width: 180px;
+	height: 180px;
+	padding: 10px;
+}
+
+/* Personality Page*/
+.bill_gates_img {
+	width: 200px;
+	height: 200px;
+}
+
+.personality_img {
+	width: 80%;
+	height: 400px;
+}
+
+/* Personal Development Page */
+.twelve_pillars_img {
+	width: 250px;
+	height: 350px;
+}
+
+/* Storyboard Page */
+
+.Wireframe_Table {
+	margin-left: auto;
+	margin-right: auto;
+	padding: 10px;
+	text-align: center;
+	width: 95%;
+	font-size: 20px;
+	border:1px solid black;
+	border-collapse:collapse;"
+}
+
+.Wireframe_Table_Header {
+	font-size: 32px;
+	padding: 100px;
+}
+
+.wireframe_img {
+	width: 220px;
+	height: 275px;
+	padding: 5px;
+}
+
+/* Index Page */
+.index_img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 40px 40px 40px 40px;
+	width: 40%;
+	height: 900px;
+}
+
+/* Reference */
+.reference {
+	text-align: center;
+	list-style-type: none;
+	font-size: 18px;
+}
